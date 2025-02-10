@@ -1,0 +1,61 @@
+body 
+{
+	background-color: #7a9bc5; 
+	text-align: center;
+}
+
+img.k2_logo
+{
+	border-style:none;
+	border-width:0px;
+	width: 43px;
+	 height: 39px;	
+}
+
+table.bank_details{
+	border-collapse: collapse;
+}
+table.bank_details td
+{
+	border: solid 0.1em;
+	padding: 0.5em;
+}
+
+hr.hrwidth55
+{
+	width: 55%;
+}
+hr.hrwidth20
+{
+	width: 20%;
+}
+
+footer 
+{
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+}
+
+.fullwidth
+{
+	width: 100%;
+}
+
+.flleft
+{
+	float: left;
+}
+.flright
+{
+	float: right;
+}
+.hide
+{
+	display:none;	
+}
+a
+{
+color: black;
+}
