@@ -59,3 +59,15 @@ a
 {
 color: black;
 }
+
+#contactForm
+{
+	display:none;
+}
+
+.mirror 
+{
+	unicode-bidi: bidi-override;
+	direction: rtl;
+	display: inline-block;
+}
